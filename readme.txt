@@ -1,2 +1,1 @@
-Penjelasan Kode:
-
+Null
